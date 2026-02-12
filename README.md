@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cyahman Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Cyahman Ahmed </h1>
 <h3 align="center">A passionate software developer from South Africa with a background in web development, database design, and cloud-based application development</h3>
 
 - 🌱 I’m currently learning **full-stack systems (frontend, backend, database)**
