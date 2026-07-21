@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cyahman Ahmed</h1>
 <h3 align="center">A passionate software developer from South Africa with a background in web development, database design, and cloud-based application development</h3>
 
-- 🌱 I’m currently learning **full-stack systems (frontend, backend, database)**
+-  I’m currently learning **full-stack systems (frontend, backend, database)**
 
-- 👯 I’m looking to collaborate on **Web applications** and **open-source projects** that solve real-world problems.
+-  I’m looking to collaborate on **Web applications** and **open-source projects** that solve real-world problems.
 
-- 📫 How to reach me **cyahmanahmed@gmail.com**
+-  How to reach me **cyahmanahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
