@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyahman Ahmed</h1>
 <h3 align="center">A passionate software developer from South Africa with a background in web development, database design, and cloud-based application development</h3>
 
--  I’m currently learning **full-stack systems (frontend, backend, database)**
+-  I’m Currently working as a **full-stack systems (frontend, backend, database)**
 
 -  I’m looking to collaborate on **Web applications** and **open-source projects** that solve real-world problems.
 
@@ -9,9 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cyahman-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyahman-ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/cy yahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cy yahman" height="30" width="40" /></a>
-<a href="https://instagram.com/yg_yahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yg_yahman" height="30" width="40" /></a>
+  🌐 <a href="https://cyahman-ahmed.base44.app/" target="_blank"><b>Portfolio Website</b></a> &nbsp;|&nbsp;
+  💼 <a href="https://linkedin.com/in/cyahman-ahmed" target="_blank"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  🎓 <a href="https://www.credly.com/users/cyahman-ahmed" target="_blank"><b>Credly</b></a> &nbsp;|&nbsp;
+  📘 <a href="https://fb.com/cy yahman" target="_blank"><b>Facebook</b></a> &nbsp;|&nbsp;
+  📷 <a href="https://instagram.com/yg_yahman" target="_blank"><b>Instagram</b></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
